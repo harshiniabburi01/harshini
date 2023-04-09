@@ -1,0 +1,6 @@
+1,Lily,A,3,90
+2,Rose,B,2,100
+3,Daisy,C,7,100
+4,Orchid,A,4,100
+5,Lotus,A,1,100
+6,Jasmine,B,9,100
